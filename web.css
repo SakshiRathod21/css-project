@@ -1,0 +1,38 @@
+.flo{
+      background-color:#ffccff;
+      margin:0px;
+    }
+    .nav{
+
+      background-color:#404040;
+      height:25px;
+      margin-top:0px;
+     ;
+
+
+    }
+    .front{
+      color:white;
+      font-size:13px;
+      padding-top:3px;
+      padding-bottom:3px;
+      padding-left:210px;
+    }
+    .image{
+      border-radius:10px;
+      margin-top:10px;
+      margin-left:20%; 
+}
+.contact-details{
+  color:black;
+  font-weight:bold;
+}
+.flowers{
+  margin-left:100px;
+}
+
+
+
+
+
+    
